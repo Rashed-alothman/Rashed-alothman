@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rashed-alothman
+- 👀 I’m interested in Gaming, and Learn new things 
+- 🌱 I’m currently learning : python
+- 📫 How to reach me : Email : Rashed.m.alothman@gmail.com
