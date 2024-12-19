@@ -72,9 +72,9 @@
 
 Here’s what I’m working with:
 
-Languages: Python, Java, C++
+Languages: Python, Java, C++, JS
 
-Frameworks & Tools: TensorFlow, Flask, Docker
+Frameworks & Tools: TensorFlow, Flask, Docker, Git, scikit-learn, 
 
 Hobbies: Gaming, problem-solving, and creating futuristic tech.
 
