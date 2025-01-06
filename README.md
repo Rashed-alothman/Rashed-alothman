@@ -66,7 +66,6 @@
 
 📚 I enjoy diving into tech blogs and YouTube channels to stay ahead of the curve. (Yes, I’ve watched “How to build a quantum computer”—no, I’m not building one. Yet.)
 
-🌌 Space and technology inspire me; both are limitless frontiers waiting to be explored. (Still waiting for Elon Musk to DM me about that Mars trip.)
 
 💻 My Toolkit
 
