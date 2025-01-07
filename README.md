@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rashed-alothman-09386a24a/](https://www.linkedin.com/in/rashed-alothman-09386a24a/)
 
-- ⚡ Fun fact **I’m always curious about how things work—be it code, gadgets, or the universe. (Still haven’t figured out how socks disappear in the laundry, though.)**
+- ⚡ Fun fact ** I write code like I play chess - strategic moves by day, questioning all my decisions at 3 AM 🎲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
