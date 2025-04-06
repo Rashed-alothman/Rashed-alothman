@@ -13,11 +13,8 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=rashed-alothman" alt="rashed-alothman" /></a> </p>
 
+![Neon Lights](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!;Neon+Vibes+Activated&center=true&width=500&height=45&color=39FF14&vCenter=true)
 
-[![Spotify Now Playing](https://spotify-now-playing-card.vercel.app/api/spotify?uid=rashed.m.alothman?si=ff7090c8f7944823&nd=1&dlsi=2b086c54ddd8474e)](https://open.spotify.com/user/rashed.m.alothman?si=ff7090c8f7944823&nd=1&dlsi=2b086c54ddd8474e)
-
-
-https://open.spotify.com/user/rashed.m.alothman?si=ff7090c8f7944823&nd=1&dlsi=2b086c54ddd8474e
 
 - 🤖 About Me
 
