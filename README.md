@@ -1,4 +1,4 @@
-<div align="center">👨‍💻 Rashed Alothman</div>
+<div align="center">Rashed Alothman</div>
 <div align="center">
   <strong>Backend Developer who love to try solving interesting problems</strong><br>
   <i>Coding by day, debugging by night, always learning something new!</i>
