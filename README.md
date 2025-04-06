@@ -7,7 +7,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rashed-alothman&label=Profile%20views&color=0e75b6&style=flat" alt="rashed-alothman" />
 </p>
+
+<p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=rashed-alothman" alt="rashed-alothman" /></a> </p>
 >
+
 
 - 🤖 About Me
 
