@@ -14,10 +14,10 @@
 <p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=rashed-alothman" alt="rashed-alothman" /></a> </p>
 
 
-[![Spotify Now Playing](https://spotify-now-playing-card.vercel.app/api/spotify?uid=06bb9cad856a49ae)](https://open.spotify.com/user/06bb9cad856a49ae)
+[![Spotify Now Playing](https://spotify-now-playing-card.vercel.app/api/spotify?uid=rashed.m.alothman?si=ff7090c8f7944823&nd=1&dlsi=2b086c54ddd8474e)](https://open.spotify.com/user/rashed.m.alothman?si=ff7090c8f7944823&nd=1&dlsi=2b086c54ddd8474e)
 
 
-
+https://open.spotify.com/user/rashed.m.alothman?si=ff7090c8f7944823&nd=1&dlsi=2b086c54ddd8474e
 
 - 🤖 About Me
 
