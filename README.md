@@ -11,6 +11,7 @@
 <p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=rashed-alothman" alt="rashed-alothman" /></a> </p>
 >
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+My+Profile;I+Code+in+Python,+JavaScript+and+More!&center=true&width=500&height=50)
 
 - 🤖 About Me
 
