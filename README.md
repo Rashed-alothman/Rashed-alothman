@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rashed Alothman</h1>
-<h3 align="center">A passionate backend developer from saudi arabia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashed-alothman&label=Profile%20views&color=0e75b6&style=flat" alt="rashed-alothman" /> </p>
-
-<p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=rashed-alothman" alt="rashed-alothman" /></a> </p>
+<div align="center">👨‍💻 Rashed Alothman</div>
+<div align="center">
+  <strong>Passionate Backend Developer & Machine Learning Enthusiast</strong><br>
+  <i>Building intelligent systems and solving complex problems with code</i>
+</div>
+<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rashed-alothman&label=Profile%20views&color=0e75b6&style=flat" alt="rashed-alothman" />
+</p>
+>
 
 - 🤖 About Me
 
