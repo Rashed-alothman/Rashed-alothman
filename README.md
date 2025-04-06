@@ -5,17 +5,63 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=rashed-alothman" alt="rashed-alothman" /></a> </p>
 
-- 🔭 I’m currently working on **student performance prediction using machine learning**
+- 🤖 About Me
 
-- 🌱 I’m currently learning **TensorFlow,Rust,AWS,Docker,typescript,pytorch**
+ - Computer Science diploma graduate, continuing my educational journey
+ - Backend developer with a passion for machine learning and data science
+ - Focused on creating intelligent applications that solve real-world problems
+ - Lifelong learner, constantly expanding my technical skills and knowledge
 
-- 👯 I’m looking to collaborate on **Customizable Lightweight Browser App**
+- 🔭 Completed Projects
+ 
+ - I've successfully completed Student Performance Prediction Systems using machine learning:
 
-- 🤝 I’m looking for help with **Educational Tool for Student Performance**
+ - Predict-Student-Dropout-and-Academic-Success (90% accuracy)
 
-- 💬 Ask me about **C++,JavaScript,python,scikit-learn,Java,Flask,seaborn,pandas**
+  -Implemented Random Forest Classification algorithm
+   Identifies students at risk of dropping out to enable early intervention
 
-- 📫 How to reach me **Rashed.m.alothman@gmail.com**
+
+ - Student-Performance Regression (96% accuracy)
+
+  - Utilizes Random Forest for regression analysis
+    Predicts performance metrics to provide targeted educational support
+
+
+ - Student-Exam-Performance-Prediction (88% accuracy)
+
+  - Built with Linear Regression models
+    Forecasts exam results based on historical data and learning patterns
+
+
+ - Snatch: Terminal-based Python media downloader
+
+   - Fast and efficient download management
+     User-friendly command-line interface
+
+- 🌱 Currently Learning
+
+ - TensorFlow & PyTorch: Advancing my deep learning capabilities
+ - Rust: Exploring systems programming for high-performance applications
+ - AWS & Docker: Strengthening my cloud and containerization skills
+ - TypeScript: Enhancing my web development with type safety
+
+- 👯 Collaboration Interests
+
+ - Customizable Lightweight Browser App
+ - Educational Tools for Student Performance
+ - Machine learning projects with real-world impact
+ - Performance-optimized backend systems
+
+-💡 Technical Skills
+ - Languages:       Python, C++, JavaScript, Java, TypeScript, PHP
+ - ML & Data:       scikit-learn, pandas, seaborn, TensorFlow, PyTorch
+ - Backend:         Flask, Node.js, .NET
+ - Databases:       MongoDB, MySQL, Oracle
+ - DevOps:          Docker, AWS, Azure, Bash
+ - Version Control: Git
+
+-  How to reach me **Rashed.m.alothman@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rashed-alothman-09386a24a/](https://www.linkedin.com/in/rashed-alothman-09386a24a/)
 
@@ -40,3 +86,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashed-alothman&" alt="rashed-alothman" /></p>
 
+📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashed-alothman&show_icons=true&locale=en&layout=compact&theme=dark" alt="rashed-alothman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashed-alothman&show_icons=true&locale=en&theme=dark" alt="rashed-alothman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashed-alothman&theme=dark" alt="rashed-alothman" /></p>
