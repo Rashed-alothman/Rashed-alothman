@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=rashed-alothman" alt="rashed-alothman" /></a> </p>
 
 
-[![Spotify Now Playing](https://spotify-now-playing-card.vercel.app/api/spotify?uid=b21364e689dd46dc)](https://open.spotify.com/user/rashed.m.alothman?si=b21364e689dd46dc)
+[![Spotify Now Playing](https://spotify-now-playing-card.vercel.app/api/spotify?uid=rashed.m.alothman?si=b21364e689dd46dc)](https://open.spotify.com/user/rashed.m.alothman?si=b21364e689dd46dc)
 
 https://open.spotify.com/user/rashed.m.alothman?si=b21364e689dd46dc
 
