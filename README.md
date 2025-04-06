@@ -13,7 +13,6 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=rashed-alothman" alt="rashed-alothman" /></a> </p>
 
-![Neon Lights](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!;Neon+Vibes+Activated&center=true&width=500&height=45&color=39FF14&vCenter=true)
 
 
 - 🤖 About Me
