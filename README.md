@@ -15,67 +15,65 @@
 
 
 
-- 🤖 About Me
+- About Me
 
    - Computer Science diploma graduate, continuing my educational journey
    - Backend developer with a passion for machine learning and data science
    - Focused on creating intelligent applications that solve real-world problems
    - Lifelong learner, constantly expanding my technical skills and knowledge
 
-- 🔭 Completed Projects
+- Completed Projects
  
- - I've successfully completed Student Performance Prediction Systems using machine learning:
+   - I've successfully completed Student Performance Prediction Systems using machine learning:
 
- - Predict-Student-Dropout-and-Academic-Success (90% accuracy)
+   - Predict-Student-Dropout-and-Academic-Success (90% accuracy)
 
-  -Implemented Random Forest Classification algorithm
-   Identifies students at risk of dropping out to enable early intervention
-
-
- - Student-Performance Regression (96% accuracy)
-
-  - Utilizes Random Forest for regression analysis
-    Predicts performance metrics to provide targeted educational support
+    -Implemented Random Forest Classification algorithm
+     Identifies students at risk of dropping out to enable early intervention
 
 
- - Student-Exam-Performance-Prediction (88% accuracy)
+   - Student-Performance Regression (96% accuracy)
 
-  - Built with Linear Regression models
-    Forecasts exam results based on historical data and learning patterns
+      - Utilizes Random Forest for regression analysis
+        Predicts performance metrics to provide targeted educational support
 
 
- - Snatch: Terminal-based Python media downloader
+   - Student-Exam-Performance-Prediction (88% accuracy)
 
-   - Fast and efficient download management
-     User-friendly command-line interface
+      - Built with Linear Regression models
+        Forecasts exam results based on historical data and learning patterns
+
+
+   - Snatch: Terminal-based Python media downloader
+
+     - Fast and efficient download management
+       User-friendly command-line interface
 
 - 🌱 Currently Learning
 
- - TensorFlow & PyTorch: Advancing my deep learning capabilities
- - Rust: Exploring systems programming for high-performance applications
- - AWS & Docker: Strengthening my cloud and containerization skills
- - TypeScript: Enhancing my web development with type safety
+   - TensorFlow & PyTorch: Advancing my deep learning capabilities
+   - Rust: Exploring systems programming for high-performance applications
+   - AWS & Docker: Strengthening my cloud and containerization skills
+   - TypeScript: Enhancing my web development with type safety
 
 - 👯 Collaboration Interests
 
- - Customizable Lightweight Browser App
- - Educational Tools for Student Performance
- - Machine learning projects with real-world impact
- - Performance-optimized backend systems
+   - Customizable Lightweight Browser App
+   - Educational Tools for Student Performance
+   - Machine learning projects with real-world impact
+   - Performance-optimized backend systems
 
 -💡 Technical Skills
- - Languages:       Python, C++, JavaScript, Java, TypeScript, PHP
- - ML & Data:       scikit-learn, pandas, seaborn, TensorFlow, PyTorch
- - Backend:         Flask, Node.js, .NET
- - Databases:       MongoDB, MySQL, Oracle
- - DevOps:          Docker, AWS, Azure, Bash
- - Version Control: Git
+   - Languages:       Python, C++, JavaScript, Java, TypeScript, PHP
+   - ML & Data:       scikit-learn, pandas, seaborn, TensorFlow, PyTorch
+   - Backend:         Flask, Node.js, .NET
+   - Databases:       MongoDB, MySQL, Oracle
+   - DevOps:          Docker, AWS, Azure, Bash
+   - Version Control: Git
 
 -  How to reach me **Rashed.m.alothman@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rashed-alothman-09386a24a/](https://www.linkedin.com/in/rashed-alothman-09386a24a/)
 
-- ⚡ Fun fact **I write code like I play chess - strategic moves by day, questioning all my decisions at 3 AM 🎲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
