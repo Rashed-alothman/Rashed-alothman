@@ -65,7 +65,8 @@
    - Machine learning projects with real-world impact
    - Performance-optimized backend systems
 
-  -💡 Technical Skills
+
+-💡 Technical Skills
      - Languages:       Python, C++, JavaScript, Java, TypeScript, PHP
      - ML & Data:       scikit-learn, pandas, seaborn, TensorFlow, PyTorch
      - Backend:         Flask, Node.js, .NET
