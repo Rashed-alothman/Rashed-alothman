@@ -65,13 +65,13 @@
    - Machine learning projects with real-world impact
    - Performance-optimized backend systems
 
--💡 Technical Skills
-   - Languages:       Python, C++, JavaScript, Java, TypeScript, PHP
-   - ML & Data:       scikit-learn, pandas, seaborn, TensorFlow, PyTorch
-   - Backend:         Flask, Node.js, .NET
-   - Databases:       MongoDB, MySQL, Oracle
-   - DevOps:          Docker, AWS, Azure, Bash
-   - Version Control: Git
+  -💡 Technical Skills
+     - Languages:       Python, C++, JavaScript, Java, TypeScript, PHP
+     - ML & Data:       scikit-learn, pandas, seaborn, TensorFlow, PyTorch
+     - Backend:         Flask, Node.js, .NET
+     - Databases:       MongoDB, MySQL, Oracle
+     - DevOps:          Docker, AWS, Azure, Bash
+     - Version Control: Git
 
 -  How to reach me **Rashed.m.alothman@gmail.com**
 
