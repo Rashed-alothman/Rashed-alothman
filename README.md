@@ -18,8 +18,6 @@
 
 
 - About Me
-
-   - Computer Science diploma graduate, continuing my educational journey
    - Backend developer with a passion for machine learning and data science
    - Focused on creating intelligent applications that solve real-world problems
    - Lifelong learner, constantly expanding my technical skills and knowledge
