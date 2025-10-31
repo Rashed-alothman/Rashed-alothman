@@ -2,29 +2,23 @@
 <br>
 <div align="center">Rashed Alothman</div>
 <div align="center">
-  <strong>Backend Developer who love to try solving interesting problems</strong><br>
-  <i>Coding by day, debugging by night, always learning something new!</i>
+  <strong>Backend Developer </strong><br>
+  <i>always learning something new!</i>
 </div>
 <br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rashed-alothman&label=Profile%20views&color=0e75b6&style=flat" alt="rashed-alothman" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+My+Profile;I+Code+in+Python,+JavaScript+and+More!&center=true&width=500&height=50)
-
-
 <p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=rashed-alothman&ma&no-bg=true" alt="rashed-alothman" /></a> </p>
 
 
 
 - About Me
-   - Backend developer with a passion for machine learning and data science
-   - Focused on creating intelligent applications that solve real-world problems
-   - Lifelong learner, constantly expanding my technical skills and knowledge
+   - Backend developer (trying my best here :) ) 
+   - Love to Learn new thing and Try new things 
 
 - Completed Projects
- 
-   - I've successfully completed Student Performance Prediction Systems using machine learning:
 
    - Predict-Student-Dropout-and-Academic-Success (90% accuracy)
 
@@ -44,33 +38,28 @@
         Forecasts exam results based on historical data and learning patterns
 
 
-   - Snatch: Terminal-based Python media downloader
-
+   - Snatch: Terminal-based Python media downloader (Mostly finish, to be honest i wish i fouched on someting else better then this)
+     
      - Fast and efficient download management
        User-friendly command-line interface
 
-- 🌱 Currently Learning
+   - More are still coming
+   - 
+- Currently Learning
 
-   - TensorFlow & PyTorch: Advancing my deep learning capabilities
-   - Rust: Exploring systems programming for high-performance applications
-   - AWS & Docker: Strengthening my cloud and containerization skills
-   - TypeScript: Enhancing my web development with type safety
+   - TensorFlow & PyTorch
+   - Rust
+   - AWS & Docker
+   - C++
 
-- 👯 Collaboration Interests
+-Technical Skills
 
-   - Customizable Lightweight Browser App
-   - Educational Tools for Student Performance
-   - Machine learning projects with real-world impact
-   - Performance-optimized backend systems
-
--💡 Technical Skills
-
-  - Languages:       Python, C++, JavaScript, Java, TypeScript, PHP
-  - ML & Data:       scikit-learn, pandas, seaborn, TensorFlow, PyTorch
-  - Backend:         Flask, Node.js, .NET
-  - Databases:       MongoDB, MySQL, Oracle
-  - DevOps:          Docker, AWS, Azure, Bash
-  - Version Control: Git
+  - Languages:       Python (Hate Love relationship, C++ (still learing), JavaScript(meh), Java(i could never Beliver i am good in this Language), 
+  - scikit-learn, pandas, seaborn, TensorFlow, PyTorch
+  - Flask, Node.js, .NET
+  - MongoDB, MySQL, Oracle
+  - Azure, Bash
+  -  Git
 
 -  How to reach me **Rashed.m.alothman@gmail.com**
 
