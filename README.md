@@ -21,8 +21,8 @@
 - Completed Projects
 
    - Predict-Student-Dropout-and-Academic-Success (90% accuracy)
-
-    -Implemented Random Forest Classification algorithm
+   
+   - Implemented Random Forest Classification algorithm
      Identifies students at risk of dropping out to enable early intervention
 
 
