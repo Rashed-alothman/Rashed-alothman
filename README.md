@@ -44,7 +44,6 @@
        User-friendly command-line interface
 
    - More are still coming
-   - 
 - Currently Learning
 
    - TensorFlow & PyTorch
