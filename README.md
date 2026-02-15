@@ -1,138 +1,117 @@
-# Rashed Alothman
+## 
 
-<div align="center">
+```
+  ____           _              _             _       _   _                           
+ |  _ \ __ _ ___| |__   ___  __| |       __ _| | ___ | |_| |__  _ __ ___   __ _ _ __  
+ | |_) / _` / __| '_ \ / _ \/ _` |_____ / _` | |/ _ \| __| '_ \| '_ ` _ \ / _` | '_ \ 
+ |  _ < (_| \__ \ | | |  __/ (_| |_____| (_| | | (_) | |_| | | | | | | | | (_| | | | |
+ |_| \_\__,_|___/_| |_|\___|\__,_|      \__,_|_|\___/ \__|_| |_|_| |_| |_|\__,_|_| |_|
+                                                                                      
+```
 
-### Backend Developer | Machine Learning Enthusiast
+## 
 
-*Always learning something new*
+# Hi there!
 
-![Profile views](https://komarev.com/ghpvc/?username=rashed-alothman&label=Profile%20views&color=0e75b6&style=flat)
+I'm **Rashed ALOTHMAN** — a CS graduate, Python & C++ enthusiast currently looking for a job 
 
-</div>
+Tagline: Building practical Backend and core logic solutions with clean code, thoughtful design, and a focus on impact. 
 
----
+## 
 
 ## About Me
 
-Backend developer with a passion for machine learning and data science. I enjoy learning new technologies and building projects that solve real problems. Currently expanding my skills in deep learning frameworks, systems programming, and infrastructure automation.
+- Name: **Rashed ALOTHMAN**
+- Role: CS Graduate · Python & C++ Enthusiast · Backend Developer & Backend Web Developer
+- Location: Kingdom of Saudi Arabia 🇸🇦
+- Bio: "CS Graduate | Python & C++ Enthusiast • Python • Java • scikit-learn • SQL• Continuing Education in CS"
+- Open to: collaboration, mentorship, and new opportunities — hireable ✅
 
----
+I focus on building logic solutions and backed solutions  and enjoy improving systems . I’m continually learning and documenting my journey as I deepen my knowledge in systems programming.
 
-## Featured Projects
+## Skills & Technologies
 
-### Machine Learning Projects
+py,flask,sklearn,,cpp,java,mysql,git,github,linux,docker,html,npm,vscode,ts,sqlite
 
-#### **Predict Student Dropout and Academic Success**
-Achieved 90% accuracy using Random Forest Classification to identify at-risk students and enable early intervention and support.
+## Top Projects
 
-[View Project](https://github.com/Rashed-alothman/student_performance_project)
+## Top Projects
 
-#### **Student Performance Regression**
-Achieved 96% accuracy with Random Forest regression to predict student performance metrics for targeted educational support.
+1. [Snatch](https://github.com/Rashed-alothman/Snatch) ⭐️
+   - Description: A powerful terminal-based Python downloader for YouTube, Twitter, TikTok & more with high-quality video/audio extraction capabilities.
+   - Stars: 8 · Forks: 1 · Language: Python · Open issues: 0
 
-[View Project](https://github.com/Rashed-alothman/student_performance_project)
+2. [TMS](https://github.com/Rashed-alothman/TMS) 
+   - Description: Task Management System — a flexible, lightweight task manager built with Python & Flask, designed for personal productivity and collaborative use.
+   - Stars: 1 · Forks: 0 · Language: Python · Watchers: 1
 
-#### **Student Exam Performance Prediction**
-Achieved 88% accuracy using Linear Regression to forecast exam results based on historical data and learning patterns.
+3. [student_performance_project](https://github.com/Rashed-alothman/student_performance_project)
+   - Description: ML-based educational analytics system predicting final marks, dropout risk, and pass/fail outcomes using scikit-learn; built with Python and Flask.
+   - Stars: 1 · Forks: 0 · Language: Python · Size: large (data & models)
 
-[View Project](https://github.com/Rashed-alothman/student_performance_project)
+4. [tfjzl-final-cloud-app-with-database](https://github.com/Rashed-alothman/tfjzl-final-cloud-app-with-database)
+   - Description: Final cloud application project with database integration (JavaScript stack).
+   - Stars: 0 · Forks: 0 · Language: JavaScript
 
----
+Notes:
+- I contribute to and maintain both learning projects (C++ practice) and real-world web/ML apps. Repos include production-ready flask apps, ML models, and tooling for productivity.
 
-### Development Projects
+## GitHub Stats
 
-#### **Docker and Tailscale Infrastructure Setup**
-Built a complete containerized infrastructure with secure remote access using Docker and Tailscale. This project demonstrates practical DevOps skills including container orchestration, networking, and secure service deployment. The setup enables seamless remote access to services through Tailscale's mesh VPN while maintaining security best practices.
+## GitHub Stats
 
-Key features:
-- Multi-container Docker environment with docker-compose
-- Tailscale integration for secure remote access
-- Network isolation and service discovery
-- Production-ready configuration management
+- Public repositories: **11**
+- Followers: **14**
+- Following: **12**
 
-#### **Snatch: Terminal-Based Media Downloader**
-Command-line Python application for efficient media downloads with fast download management and a user-friendly interface.
+Badges & cards:
 
-Note: Project is mostly complete, but I wish I had focused on something more impactful.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashed-alothman&show_icons=true&theme=radical)
 
-[View Project](https://github.com/Rashed-alothman/Snatch)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashed-alothman&layout=compact&theme=radical)
 
----
+![Followers](https://img.shields.io/github/followers/Rashed-alothman?label=Followers&style=social)
 
-## Currently Learning
+![Public Repos](https://img.shields.io/badge/Public%20Repos-11-blue)
 
-- **Deep Learning Frameworks**: TensorFlow and PyTorch for advanced neural networks
-- **Systems Programming**: Rust for performance-critical applications and C++ fundamentals
-- **DevOps & Cloud**: AWS cloud services, Docker containerization, and infrastructure as code
-- **Networking**: Advanced networking concepts with Tailscale and VPN technologies
+## Recent Activity
 
----
+## Recent Activity
 
-## Technical Skills
+Here are some of my latest GitHub events (most recent first):
 
-**Programming Languages**
-- Python (Primary - love-hate relationship)
-- Java (Surprisingly proficient)
-- JavaScript (Decent understanding)
-- C++ (Currently learning)
-- Rust (Currently learning)
+- ⭐️ Started watching hyprwm/hypridle — 2026-02-12 — https://github.com/hyprwm/hypridle
+- ⭐️ Started watching HyDE-Project/HyDE — 2026-02-12 — https://github.com/HyDE-Project/HyDE
+- ⭐️ Started watching mylinuxforwork/dotfiles — 2026-02-12 — https://github.com/mylinuxforwork/dotfiles
+- ⭐️ Started watching ThePhD/sol2 — 2026-02-10 — https://github.com/ThePhD/sol2
+- ⭐️ Started watching aristocratos/btop — 2026-01-29 — https://github.com/aristocratos/btop
+- 🍴 Forked we-promise/sure (created fork as sure) — 2026-01-25 — https://github.com/we-promise/sure
+- ⭐️ Started watching facebook/infer — 2026-01-25 — https://github.com/facebook/infer
 
-**Machine Learning & Data Science**
-- scikit-learn, pandas, seaborn
-- TensorFlow, PyTorch
-- Data analysis and visualization
+You can see more activity on my profile: https://github.com/Rashed-alothman
 
-**Backend & Web Development**
-- Flask, Node.js, .NET
-- RESTful API design
-- Microservices architecture
+## Certifications
 
-**Databases**
-- MongoDB (NoSQL)
-- MySQL, Oracle (SQL)
+- [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Frecords%2FSOYEEBQPHTYH&urlhash=sMPn&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCOpYHrn8Ray9IhtSog%2BlZA%3D%3D) - IBM, Coursera, 2026
+- [Django Application Development with SQL and Databases](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Frecords%2FA1KWQ488L3CS&urlhash=oosL&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCOpYHrn8Ray9IhtSog%2BlZA%3D%3D) - IBM, Coursera, 2026
+- [Developing AI Applications with Python and Flask](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Frecords%2FBW6OJ5MSB3GW&urlhash=gn4P&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCOpYHrn8Ray9IhtSog%2BlZA%3D%3D) - IBM, Coursera, 2025
+- [Python for Data Science, AI & Development](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Frecords%2FJEE92R4ZN58W&urlhash=Yo5S&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCOpYHrn8Ray9IhtSog%2BlZA%3D%3D) - IBM, Coursera, 2025
+- [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Frecords%2F9KEFE97LZA4G&urlhash=pACe&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCOpYHrn8Ray9IhtSog%2BlZA%3D%3D) - IBM, Coursera, 22025
+- [Getting Started with Git and GitHub](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Frecords%2FCBJ3Z03T9FXN&urlhash=ZVQy&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCOpYHrn8Ray9IhtSog%2BlZA%3D%3D) - IBM, Coursera, 2025
+- [Introduction to Software Engineering](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Frecords%2FFHKNTYRNRRAC&urlhash=b1-X&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCOpYHrn8Ray9IhtSog%2BlZA%3D%3D) - IBM, Coursera, 2025
 
-**DevOps & Infrastructure**
-- Docker and containerization
-- Tailscale for secure networking
-- Git version control
-- Azure, AWS cloud platforms
-- Bash scripting
+## Connect with Me
 
----
+## Connect with Me
 
-## GitHub Statistics
+-  GitHub: https://github.com/Rashed-alothman
+- LinkedIn: https://www.linkedin.com/in/rashed-alothman-09386a24a/
+- Instagram: https://www.instagram.com/x7vc3/
+- Roadmap profile: https://roadmap.sh/u/rashedalothman
+- Discord: 1024zb
+Badges:
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashed-blue?logo=linkedin)](https://www.linkedin.com/in/rashed-alothman-09386a24a/)
+[![Instagram](https://img.shields.io/badge/Instagram-@x7vc3-purple?logo=instagram)](https://www.instagram.com/x7vc3/)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rashed-alothman&theme=darkhub&no-frame=true&row=1&column=6)
-
-<img src="https://github-readme-stats.vercel.app/api?username=rashed-alothman&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rashed-alothman&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rashed-alothman&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rashed.m.alothman@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashed-alothman-09386a24a/)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/x7vc3)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rashedalothman)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rashedalothman/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x7vc3/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/batman4110)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to collaboration and new opportunities*
-
-</div>
+I am open to collaboration and new opportunities — feel free to reach out via LinkedIn. 📬
