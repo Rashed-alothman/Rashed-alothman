@@ -10,6 +10,14 @@
 ```
 
 ## 
+<p align="center">
+  <a href="https://rashed2003.pythonanywhere.com/link">
+    <img
+      src="https://rashed2003.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
+      alt="Current Spotify Song"
+    />
+  </a>
+</p>
 
 # Hi there!
 
@@ -99,8 +107,6 @@ You can see more activity on my profile: https://github.com/Rashed-alothman
 - [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Frecords%2F9KEFE97LZA4G&urlhash=pACe&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCOpYHrn8Ray9IhtSog%2BlZA%3D%3D) - IBM, Coursera, 22025
 - [Getting Started with Git and GitHub](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Frecords%2FCBJ3Z03T9FXN&urlhash=ZVQy&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCOpYHrn8Ray9IhtSog%2BlZA%3D%3D) - IBM, Coursera, 2025
 - [Introduction to Software Engineering](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Frecords%2FFHKNTYRNRRAC&urlhash=b1-X&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCOpYHrn8Ray9IhtSog%2BlZA%3D%3D) - IBM, Coursera, 2025
-
-## Connect with Me
 
 ## Connect with Me
 
